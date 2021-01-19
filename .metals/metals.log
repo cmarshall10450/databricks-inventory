@@ -1,0 +1,20 @@
+2021.01.19 18:17:22 INFO  Started: Metals version 0.9.8 in workspace '/Users/cmarshall10450/projects/inventory' for client vscode.
+2021.01.19 18:17:23 INFO  time: initialize in 0.53s
+2021.01.19 18:17:24 WARN  Build server is not auto-connectable.
+2021.01.19 18:17:24 WARN  no build tool detected in workspace '/Users/cmarshall10450/projects/inventory'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2021.01.19 18:17:24 WARN  no build target for: /Users/cmarshall10450/projects/inventory/notebook.scala
+2021.01.19 18:17:27 INFO  no build target: using presentation compiler with only scala-library
+Jan 19, 2021 6:17:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Jan 19, 2021 6:17:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Jan 19, 2021 6:17:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2021.01.19 18:17:27 WARN  no build target for: /Users/cmarshall10450/projects/inventory/notebook.scala
+2021.01.19 18:17:39 WARN  no build target for: /Users/cmarshall10450/projects/inventory/notebook.scala
+2021.01.19 18:47:17 WARN  no build target for: /Users/cmarshall10450/projects/inventory/notebook.scala
+2021.01.19 18:47:19 WARN  no build target for: /Users/cmarshall10450/projects/inventory/notebook.scala
+2021.01.19 18:47:22 WARN  no build target for: /Users/cmarshall10450/projects/inventory/notebook.scala
+2021.01.19 18:47:24 WARN  no build target for: /Users/cmarshall10450/projects/inventory/notebook.scala
+2021.01.19 18:47:30 WARN  no build target for: /Users/cmarshall10450/projects/inventory/notebook.scala
+2021.01.19 18:47:34 WARN  no build target for: /Users/cmarshall10450/projects/inventory/notebook.scala
