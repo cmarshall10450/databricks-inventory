@@ -75,7 +75,7 @@ def upload_notebook(notebook, contents):
   }
   return databricks_request("workspace/import", params, "POST")
 
-path_regex = r"abfss:\/\/([a-zA-Z-]+)@([a-z]+)\.dfs\.core\.windows\.net\/([a-zA-Z\._-]+)"
+path_regex = r"abfss:\/\/([a-zA-Z-]+)@([a-z]+)\.dfs\.core\.windows\.net\/([a-zA-Z0-9\._-]+)"
 
 notebooks = get_all_notebooks() 
 
